@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Token",
+  "symbol": "QTM",
+  "decimals": 18,
+  "address": "0xe37b1e8a112d75087e5c362f70768fb5cabd0092", 
+  "chainId": 11155111, 
+  "logoURI": "https://raw.githubusercontent.com/VoronNNN/QuantumToken-Assets/main/quantum_token_icon.png"
+}
